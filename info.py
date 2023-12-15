@@ -1,4 +1,4 @@
-API_ID       = ""
+API_ID       = "26350004"
 API_HASH     = ""
 BOT_TOKEN    = ""
 SESSION      = ""
