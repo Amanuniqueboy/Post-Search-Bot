@@ -1,5 +1,5 @@
-API_ID       = "26350004"
-API_HASH     = "4fc590a80c2e2ccec3587cb1568e8f9e"
+API_ID       = ""
+API_HASH     = ""
 BOT_TOKEN    = ""
 SESSION      = ""
 DATABASE_URI = ""
